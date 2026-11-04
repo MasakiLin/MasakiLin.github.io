@@ -41,3 +41,6 @@ public, which is exactly the intended order.
 
 - `index.html` — the complete public page (single self-contained file,
   exported 2026-11-04 from the Muse test version).
+- Hero portrait: Masaki's official MCW headshot, embedded in
+  `index.html` (4:5 crop showing head, shoulders, and upper chest;
+  updated 2026-11-04).
